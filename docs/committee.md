@@ -153,6 +153,12 @@ table th {
             <strong>Punya Syon Pandey</strong> (<a href="mailto:punya.pandey@mail.utoronto.ca">punya.pandey@mail.utoronto.ca</a>, he/him) is a research assistant at the University of Toronto, in Canada. His work focuses on adversarial robustness in LLMs and evaluating multi-agent interactions.
        </td>
     </tr>
+    <tr>
+        <td><img src="https://i.imgur.com/uMnQCSB.png" alt="Punya Syon Pandey" class="portrait"></td>
+        <td>
+            <strong>Esther Gan</strong> (<a href="mailto:esther.gan@u.nus.edu">esther.gan@u.nus.edu</a>, she/her) is a PhD candidate at National University of Singapore. Her work focuses on LLM trustworthiness and adversarial robustness.
+       </td>
+    </tr>
 </table>
 
 # Past Members of the ACL Ethics Committee
