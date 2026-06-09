@@ -178,6 +178,6 @@ table th {
 - Malvina Nissim
 - Yulia Tsvetkov
 
-# Past Stuent Members of the ACL Ethics Committee 
+# Past Student Members of the ACL Ethics Committee 
 
 - Minzhi Li - Served in 2024
