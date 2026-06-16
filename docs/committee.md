@@ -89,6 +89,12 @@ table th {
         </td>
     </tr>
     <tr>
+        <td><img src="/images/monojit-choudhury.jpg" alt="Monojit Choudhury" class="portrait"></td>
+        <td>
+            <strong>Monojit Choudhury</strong> (<a href="mailto:monojit.choudhury@mbzuai.ac.ae">monojit.choudhury@mbzuai.ac.ae</a>, he/him) is a Professor of Natural Language Processing at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), Abu Dhabi. Before this, he was a principal researcher at Microsoft Research. His research interests include fairness and inclusion in NLP, focusing on under-represented languages and cultures.
+        </td>
+    </tr>
+    <tr>
         <td><img src="https://i.imgur.com/AO2xNYk.jpeg" alt="Alvin Grissom II" class="portrait"></td>
         <td>
             <strong>Alvin Grissom II</strong> (<a href="mailto:agrissom@haverford.edu">agrissom@haverford.edu</a>, he/him) is an Associate Professor of Computer Science at Haverford College.
@@ -172,6 +178,6 @@ table th {
 - Malvina Nissim
 - Yulia Tsvetkov
 
-# Past Stuent Members of the ACL Ethics Committee 
+# Past Student Members of the ACL Ethics Committee 
 
 - Minzhi Li - Served in 2024
