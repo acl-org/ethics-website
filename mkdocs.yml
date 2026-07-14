@@ -2,7 +2,7 @@ site_name: ACL Ethics
 nav:
   - Home: index.md
   - Roles:
-        - Roles: roles/index.md
+        - roles/index.md
         - roles/authors.md
         - Instructors: roles/instructors.md
         - roles/organizers.md
@@ -41,12 +41,9 @@ theme:
   name: material
   features:
     - navigation.tabs
-    # - navigation.tabs.sticky
     - navigation.indexes
     - navigation.top
     - navigation.prune
-    # - navigation.sections
-    # - toc.integrate
     - search.suggest
     - search.highlight
     - content.tabs.link
@@ -69,96 +66,45 @@ theme:
       primary: teal
       accent: lime
 markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - footnotes
+  - meta
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
-  - attr_list
-  - md_in_html
-  - pymdownx.superfences
-  - pymdownx.highlight
-  - pymdownx.arithmatex:
-      generic: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tabbed
   - pymdownx.tasklist:
       custom_checkbox: true
-  - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
-  - pymdownx.snippets
-  - pymdownx.inlinehilite
-  - pymdownx.critic
-  - pymdownx.mark
-  - pymdownx.caret
-  - pymdownx.keys
-  - pymdownx.details
-  - pymdownx.smartsymbols
-  - pymdownx.arithmatex:
-      generic: true
-  - admonition
-  - footnotes
-  - meta
-  - toc:
-      permalink: true
-  - pymdownx.highlight:
-      anchor_linenums: true
-  - pymdownx.inlinehilite
-  - pymdownx.snippets
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
-  - pymdownx.arithmatex:
-      generic: true
-  - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
-  - pymdownx.snippets
-  - pymdownx.inlinehilite
-  - pymdownx.critic
-  - pymdownx.mark
-  - pymdownx.caret
-  - pymdownx.keys
-  - pymdownx.details
-  - pymdownx.smartsymbols
-  - pymdownx.arithmatex:
-      generic: true
-  - admonition
-  - footnotes
-  - meta
-  - toc:
-      permalink: true
-  - pymdownx.highlight:
-      anchor_linenums: true
-  - pymdownx.inlinehilite
-  - pymdownx.snippets
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
+
+extra_javascript:
+  - javascripts/goatcounter.js
+  - https://gc.zgo.at/count.js
 
 copyright: |
-  &copy; 2025–2023 <a href="https://github.com/acl-org/ethics-website"  target="_blank" rel="noopener">ACL Ethics Committee</a>
+  &copy; 2023–2026 <a href="https://github.com/acl-org/ethics-website" target="_blank" rel="noopener">ACL Ethics Committee</a>
   
-# Additional configuration
 extra:
- # status:
- #   new: Recently added
- #   deprecated: Deprecated
- # analytics:
- #   provider: google
- #   property: !ENV GOOGLE_ANALYTICS_KEY
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/acl-org/ethics-website
-#    - icon: fontawesome/brands/docker
-#      link: https://hub.docker.com/r/squidfunk/mkdocs-material/
-#    - icon: fontawesome/brands/python
-#      link: https://pypi.org/project/mkdocs-material/
-#    - icon: fontawesome/brands/bluesky
-#      link: https://bsky.app/profile/squidfunk.bsky.social
-#    - icon: fontawesome/brands/mastodon
-#      link: https://fosstodon.org/@squidfunk
-#    - icon: fontawesome/brands/x-twitter
-#      link: https://x.com/squidfunk
