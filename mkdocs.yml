@@ -99,7 +99,9 @@ markdown_extensions:
 
 extra_javascript:
   - javascripts/goatcounter.js
-  - https://gc.zgo.at/count.js
+
+extra_css:
+  - stylesheets/extra.css
 
 copyright: |
   &copy; 2023–2026 <a href="https://github.com/acl-org/ethics-website" target="_blank" rel="noopener">ACL Ethics Committee</a>

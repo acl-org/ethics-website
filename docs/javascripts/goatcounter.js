@@ -11,10 +11,8 @@ function getCounterContainer() {
     if (!container) {
         container = document.createElement('div');
         container.id = COUNTER_CONTAINER_ID;
-        container.style.marginLeft = 'auto';
-        container.style.opacity = '0.85';
-        container.style.fontSize = '0.8rem';
-        container.style.whiteSpace = 'nowrap';
+        container.tabIndex = 0;
+        container.setAttribute('aria-label', 'Visit counter');
         parent.appendChild(container);
     }
 
@@ -31,8 +29,8 @@ function appendVisibleVisitCount() {
         return false;
     }
 
-    const appendTarget = document.querySelector(FOOTER_SELECTOR) ? FOOTER_SELECTOR : 'body';
-    window.goatcounter.visit_count({ append: appendTarget });
+    getCounterContainer();
+    window.goatcounter.visit_count({ append: '#' + COUNTER_CONTAINER_ID });
     return true;
 }
 
