@@ -79,6 +79,29 @@ table th {
 }
 </style>
 
+# Ethics Co-Chairs
+
+<table>
+    <tr>
+        <td><img src="/images/AN_photo2021-square.png" alt="Aurélie Névéol" class="portrait"></td>
+        <td>
+            <strong>Aurélie Névéol</strong> (<a href="mailto:aurelie.neveol@lisn.fr">aurelie.neveol@lisn.fr</a>, she/her) is a CNRS Researcher at LISN (formerly, LIMSI) working on clinical and biomedical Natural Language Processing. Her research interests include information extraction and knowledge representation in specialized domains. Her research addresses both methods and applications of biomedical text analysis, ranging from explorations of representation models and their cross-language or cross-domain adaptability, to the integration of representation frameworks to extract new medical knowledge from clinical text. She also has a strong interest in ethics issues related to the development, evaluation and deployment of Natural Language Processing systems.
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://i.imgur.com/x3x5rbO.jpeg" alt="Zhijing Jin" class="portrait"></td>
+        <td>
+            <a href="https://zhijing-jin.com/"><strong>Zhijing Jin</strong></a> (<a href="mailto:zjin@cs.toronto.edu">zjin@cs.toronto.edu</a>, she/her) is an incoming Assistant Professor at the University of Toronto, as well as a CIFAR AI Chair, ELLIS advisor, faculty member at the Vector Institute, and faculty affiliate at the Schwartz Reisman Institute. She is currently a postdoc at Max Planck Institute for Intelligent Systems in Germany. Her research focuses on causal inference for NLP, with a focus on Responsible AI applications. Together with Rada Mihalcea and many others, she co-organizes many <a href="https://sites.google.com/view/nlp4positiveimpact">NLP for Positive Impact Workshops</a> at *CL conferences, as well as the <a href="https://mentorship.aclweb.org/"> ACL Year-Round Mentorship</a>.
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://i.imgur.com/0Cnn9qf.jpeg" alt="Min-Yen Kan" class="portrait"></td>
+        <td>
+            <strong>Min-Yen Kan</strong> (<a href="mailto:kanmy@comp.nus.edu.sg">kanmy@comp.nus.edu.sg</a>, he/him): Associate Professor at the National University of Singapore and a co-chair of the ACL Ethics Committee. He has taught over 5,000 graduate and undergraduate students on his research interests in digital libraries, information retrieval and natural language processing.
+        </td>
+    </tr>
+</table>
+
 # Members of the ACL Ethics Committee
 
 <table>
@@ -101,33 +124,15 @@ table th {
         </td>
     </tr>
     <tr>
-        <td><img src="https://i.imgur.com/x3x5rbO.jpeg" alt="Zhijing Jin" class="portrait"></td>
-        <td>
-            <a href="https://zhijing-jin.com/"><strong>Zhijing Jin</strong></a> (<a href="mailto:zjin@cs.toronto.edu">zjin@cs.toronto.edu</a>, she/her) is an incoming Assistant Professor at the University of Toronto, as well as a CIFAR AI Chair, ELLIS advisor, faculty member at the Vector Institute, and faculty affiliate at the Schwartz Reisman Institute. She is currently a postdoc at Max Planck Institute for Intelligent Systems in Germany. Her research focuses on causal inference for NLP, with a focus on Responsible AI applications. Together with Rada Mihalcea and many others, she co-organizes many <a href="https://sites.google.com/view/nlp4positiveimpact">NLP for Positive Impact Workshops</a> at *CL conferences, as well as the <a href="https://mentorship.aclweb.org/"> ACL Year-Round Mentorship</a>.
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://i.imgur.com/0Cnn9qf.jpeg" alt="Min-Yen Kan" class="portrait"></td>
-        <td>
-            <strong>Min-Yen Kan</strong> (<a href="mailto:kanmy@comp.nus.edu.sg">kanmy@comp.nus.edu.sg</a>, he/him): Associate Professor at the National University of Singapore and a co-chair of the ACL Ethics Committee. He has taught over 5,000 graduate and undergraduate students on his research interests in digital libraries, information retrieval and natural language processing.
-        </td>
-    </tr>
-    <tr>
         <td><img src="https://i.imgur.com/ZIDecOQ.jpeg" alt="Seunghun J. Lee" class="portrait"></td>
         <td>
-            <strong>Seunghun J. Lee</strong> (<a href="mailto:seunghun@icu.ac.jp">seunghun@icu.ac.jp</a>, he/him) is a Senior Associate Professor of Linguistics at the International Christian University, a liberal arts college in Tokyo, Japan. I am also an Adjunct Professor of African Languages at the University of Venda in South Africa, and an Honorary Associate Professor in the Centre for Linguistic Science & Technology at the Indian Institute of Technology Guwahati in India. 
+            <strong>Seunghun J. Lee</strong> (<a href="mailto:seunghun@icu.ac.jp">seunghun@icu.ac.jp</a>, he/him) is a Senior Associate Professor of Linguistics at the International Christian University, a liberal arts college in Tokyo, Japan. I am also an Adjunct Professor of African Languages at the University of Venda in South Africa, and an Honorary Associate Professor in the Centre for Linguistic Science & Technology at the Indian Institute of Technology Guwahati in India.
         </td>
     </tr>
     <tr>
         <td><img src="https://i.imgur.com/94c8Ped.jpeg" alt="Margot Mieskes" class="portrait"></td>
         <td>
             <strong>Margot Mieskes</strong> (<a href="mailto:margot.mieskes@h-da.de">margot.mieskes@h-da.de</a>, she/her) is a Professor for Information Science at the University of Applied Sciences, Darmstadt, Germany. She works in Computational Linguistics (CL) and Natural Language Processing (NLP), focusing on automatic summarization, evaluation methods, data quality, emotion detection, ethics, experiment reproducibility, and biases in large language models.
-        </td>
-    </tr>
-    <tr>
-        <td><img src="/images/AN_photo2021-square.png" alt="Aurélie Névéol" class="portrait"></td>
-        <td>
-            <strong>Aurélie Névéol</strong> (<a href="mailto:aurelie.neveol@lisn.fr">aurelie.neveol@lisn.fr</a>, she/her) is a CNRS Researcher at LISN (formerly, LIMSI) working on clinical and biomedical Natural Language Processing. Her research interests include information extraction and knowledge representation in specialized domains. Her research addresses both methods and applications of biomedical text analysis, ranging from explorations of representation models and their cross-language or cross-domain adaptability, to the integration of representation frameworks to extract new medical knowledge from clinical text. She also has a strong interest in ethics issues related to the development, evaluation and deployment of Natural Language Processing systems.
         </td>
     </tr>
     <tr>
