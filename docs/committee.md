@@ -159,9 +159,9 @@ table th {
         </td>
     </tr>
     <tr>
-        <td><img src="https://i.imgur.com/4Ov1ijA.jpeg" alt="Punya Syon Pandey" class="portrait"></td>
+        <td><img src="/images/arian-khorasani.jpg" alt="Arian Khorasani" class="portrait"></td>
         <td>
-            <strong>Punya Syon Pandey</strong> (<a href="mailto:punya.pandey@mail.utoronto.ca">punya.pandey@mail.utoronto.ca</a>, he/him) is a research assistant at the University of Toronto, in Canada. His work focuses on adversarial robustness in LLMs and evaluating multi-agent interactions.
+            <strong>Arian Khorasani</strong> (<a href="mailto:ariankh@cs.toronto.edu">ariankh@cs.toronto.edu</a>, he/him) is currently a research assistant at the Jinesis Lab at the University of Toronto and Vector Institute in Canada. His work focuses on AI Safety/Alignment, Mechanistic Interpretability, and AI for Science.
        </td>
     </tr>
   <tr>
@@ -186,3 +186,4 @@ table th {
 # Past Student Members of the ACL Ethics Committee 
 
 - Minzhi Li - Served in 2024
+- Punya Syon Pandey - Served in 2025
