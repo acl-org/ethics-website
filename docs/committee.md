@@ -186,3 +186,4 @@ table th {
 # Past Student Members of the ACL Ethics Committee 
 
 - Minzhi Li - Served in 2024
+- Punya Syon Pandey - Served in 2025
