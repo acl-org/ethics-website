@@ -7,7 +7,7 @@ hide:
   - breadcrumbs
   - next
   - prev
-title: "AACL-IJCNLP 2026 Ethics Tutorial: Navigating Ethical Challenges in NLP"
+title: "AACL-IJCNLP 2026 Ethics Tutorial: The Future of NLP Needs Ethical Considerations: An Interactive Tutorial for Researchers and Students"
 ---
 
 <style>
@@ -38,19 +38,20 @@ title: "AACL-IJCNLP 2026 Ethics Tutorial: Navigating Ethical Challenges in NLP"
 
 # AACL-IJCNLP 2026 Ethics Tutorial: The Future of NLP Needs Ethical Considerations: An Interactive Tutorial for Researchers and Students
 
+
 <div style="text-align: center;">
-<img src="https://i.imgur.com/GYaaEXF.jpeg" alt="Luciana Benotti" class="portrait">
-<img src="https://i.imgur.com/MBamZKK.jpeg" alt="Fanny Ducel" class="portrait">
-<img src="https://i.imgur.com/TZNHaMt.png" alt="Karën Fort" class="portrait">
-<img src="https://i.imgur.com/tmODwaO.jpeg" alt="Guido Ivetta" class="portrait">
+<img src="https://baridxiai.github.io/assets/img/new.png" alt="Xi Ai" class="portrait">
+<img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=U6p6540AAAAJ" alt="Vamshi Krishna Bonagiri" class="portrait">
+<img src="/images/monojit-choudhury.jpg" alt="Monojit Choudhury" class="portrait">
+<img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=3v5pE6MAAAAJ" alt="Abdoul Jalil DJIBEROU MAHAMADOU" class="portrait">
+<img src="https://i.imgur.com/uMnQCSB.png" alt="Esther Gan" class="portrait">
 <img src="https://i.imgur.com/x3x5rbO.jpeg" alt="Zhijing Jin" class="portrait">
 <img src="https://i.imgur.com/0Cnn9qf.jpeg" alt="Min-Yen Kan" class="portrait">
 <img src="https://i.imgur.com/ZIDecOQ.jpeg" alt="Seunghun J. Lee" class="portrait">
-<img src="https://i.imgur.com/WXwRbvG.jpeg" alt="Minzhi Li" class="portrait">
+<img src="https://yisong.me/photo-2023.jpg" alt="Yisong Miao" class="portrait">
 <img src="https://i.imgur.com/94c8Ped.jpeg" alt="Margot Mieskes" class="portrait">
-<img src="https://i.imgur.com/4Ov1ijA.jpeg" alt="Punya Syon Pandey" class="portrait">
-<img src="https://i.imgur.com/UTOb633.jpeg" alt="Adriana Pagano" class="portrait">
-<img src="https://i.imgur.com/AO2xNYk.jpeg" alt="Alvin Grissom II" class="portrait">
+<img src="/images/AN_photo2021-square.png" alt="Aurélie Névéol" class="portrait">
+<img src="https://yajingyang.github.io/images/profile.jpg" alt="Yajing Yang" class="portrait">
 </div>
 
 Materials for the AACL-IJCNLP 2026 Ethics Tutorial: **The Future of NLP Needs Ethical Considerations: An Interactive Tutorial for Researchers and Students**.
@@ -59,13 +60,15 @@ _This repository archives the materials in a reusable form, related materials (A
 
 Authors:
 
-* [Luciana Benotti](https://benotti.github.io/) (Universidad Nacional de Córdoba)
+* [Xi Ai](https://baridxiai.github.io/) (National University of Singapore)
 
-* [Fanny Ducel](https://fannyducel.github.io/) (LISN, Université Paris-Saclay)
+* [Vamshi Krishna Bonagiri](https://victorknox.github.io/) (Mohamed bin Zayed University of Artificial Intelligence)
 
-* [Karën Fort](https://members.loria.fr/KFort/) (Laboratoire Lorrain de Recherche en Informatique et ses Applications – LORIA, Université de Lorraine)
+* [Monojit Choudhury](https://mbzuai.ac.ae/study/faculty/monojit-choudhury/) (Mohamed bin Zayed University of Artificial Intelligence)
 
-* [Guido Ivetta](https://www.linkedin.com/in/guidoivetta/) (Universidad Nacional de Córdoba)
+* [Abdoul Jalil DJIBEROU MAHAMADOU](https://abdjiber.github.io/) (Mohamed bin Zayed University of Artificial Intelligence)
+
+* [Esther Gan](https://esther-g.vercel.app) (National University of Singapore)
 
 * [Zhijing Jin](https://zhijing-jin.com/) (University of Toronto and Max Planck Institute)
 
@@ -73,15 +76,17 @@ Authors:
 
 * [Seunghun J. Lee](https://sites.google.com/view/seunghunjlee/home) (International Christian University and University of Venda)
 
+* [Yisong Miao](https://yisong.me/) (National University of Singapore)
+
 * [Margot Mieskes](https://sis.h-da.de/personen/professor-innen-auf-einen-blick/prof-dr-margot-mieskes) (University of Applied Sciences, Darmstadt)
 
-* [Minzhi Li](https://yocodeyo.github.io/) (National University of Singapore)
+* [Aurélie Névéol](https://perso.limsi.fr/neveol) (LISN-CNRS / Université Paris Saclay)
 
-* [Adriana Pagano](https://scholar.google.com.br/citations?user=iMOX_EQAAAAJ&hl=pt-PT) (Universidade Federal de Minas Gerais)
+* [Yajing Yang](https://yajingyang.github.io/) (National University of Singapore)
 
 Additional Contributors:
 
-* [Alvin Grissom II](https://agrissom.sites.haverford.edu/) (Haverford College)
+* 
 
 ### How to run your own tutorial or lesson?
 
@@ -145,7 +150,7 @@ Other formats might consider:
 
 In 2024, the ACL Ethics Committee (AEC) decided to propose to run a tutorial on ethics and its impact on ethics in both authoring and reviewing aspects for the community of CL/NLP scholars and practitioners.  As part of this process, the AEC Committee put together the [proposal file](https://github.com/acl-org/ethics-website/blob/main/docs/tutorials/Ethics_Tutorial_Proposal__ACL_2025.pdf) and submitted it to the joint call for tutorial proposals. It is currently published in the [ACL Anthology](https://aclanthology.org/2025.acl-tutorials.5/).
 
-The tutorial was accepted to run at [ACL 2025](https://2025.aclweb.org/) (Vienna, Austria, 27 July to 1 August) on Sundey, 27 July from 14:00 to 17:30hs in Hall M.1-M.2 at the venue. The tutorial will be hybrid and we will have online moderators for the virtual participants. 
+The tutorial was accepted to run at [AACL-IJCNLP 2026](https://2026.aaclnet.org) (Hengqin, China, 6 November to 10 November) on Monday, 9 November from 09:00 to 12:30hs in Room L at the venue. The tutorial will be hybrid and we will have online moderators for the virtual participants. 
 
 The tutorial and its materials will be presented in English.  It will be structured as per the proposal, in seven segments, each approximately 30 minutes long.  It is participatory in nature, requiring the audience to work in groups on invented problematic abstracts written by the proposers that represent common ethical issues experienced by ethics review chairs.  There will be a good facilitator-to-group ratio, to ensure all of the participants have a chance to reflect, contribute and be heard, and for the facilitators to keep the session on track.
 
