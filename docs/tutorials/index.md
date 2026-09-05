@@ -16,9 +16,8 @@ Explore the tutorials presented at previous ACL conferences:
 - **[ACL 2025](https://ethics.aclweb.org/tutorials/ACL_2025/)**
 
 #### Upcoming Tutorials
-Stay tuned for upcoming tutorials at future ACL conferences.
 
-- No upcoming tutorials scheduled yet
+- **[AACL-IJCNLP 2026](https://ethics.aclweb.org/tutorials/AACL_IJCNLP_2026/)**
 
 
 We hope these resources will be valuable in your research and professional development.
