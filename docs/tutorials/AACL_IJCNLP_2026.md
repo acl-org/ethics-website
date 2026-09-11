@@ -111,32 +111,16 @@ Other formats might consider:
 **If you run a course, tutorial or other session based on these materials, we'd love to hear from you! Please get in contact with us, and we may also (with your permission) list your course or materials in the [Resource](#r) segment.  Also please do cite our tutorial abstract as a means of acknowledging the helpfulness of the materials.  Thank you!**
 
 ```
-@inproceedings{benotti-etal-2025-navigating,
-    title = "Navigating Ethical Challenges in {NLP}: Hands-on strategies for students and researchers",
-    author = {Benotti, Luciana  and
-      Ducel, Fanny  and
-      Fort, Kar{\"e}n  and
-      Ivetta, Guido  and
-      Jin, Zhijing  and
-      Kan, Min-Yen  and
-      Lee, Seunghun J.  and
-      Li, Minzhi  and
-      Mieskes, Margot  and
-      Pagano, Adriana},
-    editor = "Arase, Yuki  and
-      Jurgens, David  and
-      Xia, Fei",
-    booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 5: Tutorial Abstracts)",
-    month = jul,
-    year = "2025",
-    address = "Vienna, Austria",
-    publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2025.acl-tutorials.5/",
-    pages = "7--8",
-    ISBN = "979-8-89176-255-8",
-    abstract = "With NLP research being rapidly productionized into real-world applications, it is important to be aware of and think through the consequences of our work. Such ethical considerations are important in both authoring and reviewing (e.g. privacy, consent, fairness, among others). This tutorial will equip participants with basic guidelines for thinking deeply about ethical issues and review common considerations that recur in NLP research. The methodology is interactive and participatory, including discussion of case studies and group work. Participants will gain practical experience on when to flag a paper for ethics review and how to write an ethical consideration section to be shared with the broader community. Most importantly, the participants will be co-creating the tutorial outcomes and extending tutorial materials to share as public outcomes."
+@inproceedings{
+ai2026the,
+title={The Future of {NLP} Needs Ethical Considerations: An Interactive Tutorial for Researchers and Students},
+author={Xi Ai and Vamshi Krishna Bonagiri and Monojit Choudhury and Abdoul Jalil DJIBEROU MAHAMADOU and Esther Gan and Zhijing Jin and Min-Yen Kan and Seunghun J. Lee and Yisong Miao and Margot Mieskes and Aur{\'e}lie N{\'e}v{\'e}ol and Yajing Yang},
+booktitle={Tutorials EMNLP/AACL 2026},
+year={2026},
+url={https://openreview.net/forum?id=hL6YVWG3wG}
 }
 ```
+
 ## Table of Contents
 (these are internal links to the sections below)
 
