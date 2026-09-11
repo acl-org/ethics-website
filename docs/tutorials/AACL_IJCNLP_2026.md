@@ -150,7 +150,7 @@ Other formats might consider:
 
 In 2024, the ACL Ethics Committee (AEC) decided to propose to run a tutorial on ethics and its impact on ethics in both authoring and reviewing aspects for the community of CL/NLP scholars and practitioners.  As part of this process, the AEC Committee put together the [proposal file](https://github.com/acl-org/ethics-website/blob/main/docs/tutorials/Ethics_Tutorial_Proposal__ACL_2025.pdf) and submitted it to the joint call for tutorial proposals. It is currently published in the [ACL Anthology](https://aclanthology.org/2025.acl-tutorials.5/).
 
-The tutorial was accepted to run at [AACL-IJCNLP 2026](https://2026.aaclnet.org) (Hengqin, China, 6 November to 10 November) on Monday, 9 November from 09:00 to 12:30hs in Room L at the venue. The tutorial will be hybrid and we will have online moderators for the virtual participants. 
+The tutorial was accepted to run at [AACL-IJCNLP 2026](https://2026.aaclnet.org) (Hengqin, China, 6 November to 10 November) on Monday, 9 November from 09:00 to 12:30hs in Room L at the Tianmu Melody Convention Centre. The tutorial will be hybrid and we will have online moderators for the virtual participants. 
 
 The tutorial and its materials will be presented in English.  It will be structured as per the proposal, in seven segments, each approximately 30 minutes long.  It is participatory in nature, requiring the audience to work in groups on invented problematic abstracts written by the proposers that represent common ethical issues experienced by ethics review chairs.  There will be a good facilitator-to-group ratio, to ensure all of the participants have a chance to reflect, contribute and be heard, and for the facilitators to keep the session on track.
 
