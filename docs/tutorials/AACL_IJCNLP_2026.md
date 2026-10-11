@@ -92,7 +92,7 @@ Additional Contributors:
 
 We recommend using our base materials here and adapting them to your setting.  Minimally, you need to create your own shortlinks and URL codes to your version of the materials before running, as the archived materials reference our ACL 2025 or EACL 2023 instances.
 
-For our tutorial setting in an audience participatory style and approximately 60+ participants and 6 organizers, it was important to:
+For our tutorial setting in an audience participatory style and approximately 60+ participants and 6 in-person organizers, it was important to:
 
 * Restrict the number of groups so that each group can present within the session's time limit;
 
@@ -132,80 +132,79 @@ url={https://openreview.net/forum?id=hL6YVWG3wG}
 
 ### <a id="i">Introduction</a>
 
-In 2024, the ACL Ethics Committee (AEC) decided to propose to run a tutorial on ethics and its impact on ethics in both authoring and reviewing aspects for the community of CL/NLP scholars and practitioners.  As part of this process, the AEC Committee put together the [proposal file](https://github.com/acl-org/ethics-website/blob/main/docs/tutorials/Ethics_Tutorial_Proposal__ACL_2025.pdf) and submitted it to the joint call for tutorial proposals. It is currently published in the [ACL Anthology](https://aclanthology.org/2025.acl-tutorials.5/).
+In 2026, the ACL Ethics Committee (AEC) decided to propose to run a tutorial on ethics and its impact on ethics in both authoring and reviewing aspects for the community of CL/NLP scholars and practitioners.  As part of this process, the AEC Committee put together the [proposal file](https://github.com/acl-org/ethics-website/blob/main/docs/tutorials/Ethics_Tutorial_Proposal_AACL_IJCNLP_2026.pdf) and submitted it to the joint call for tutorial proposals. It will be currently published in the [ACL Anthology](/).
 
 The tutorial was accepted to run at [AACL-IJCNLP 2026](https://2026.aaclnet.org) (Hengqin, China, 6 November to 10 November) on Monday, 9 November from 09:00 to 12:30hs in Room L at the Tianmu Melody Convention Centre. The tutorial will be hybrid and we will have online moderators for the virtual participants. 
 
 The tutorial and its materials will be presented in English.  It will be structured as per the proposal, in seven segments, each approximately 30 minutes long.  It is participatory in nature, requiring the audience to work in groups on invented problematic abstracts written by the proposers that represent common ethical issues experienced by ethics review chairs.  There will be a good facilitator-to-group ratio, to ensure all of the participants have a chance to reflect, contribute and be heard, and for the facilitators to keep the session on track.
 
-<div style="text-align: left;">
-  <img src="https://i.imgur.com/EuMCArz.png" alt="ACL 2025 Tutorial Group Activity" style="max-width: 500px; width: 100%; height: auto; margin: 1em 0;">
-</div>
+| Time | Activity | Presenters |
+| :--- | :--- | :--- |
+| 9:00–9:10 | Introductions and Kickoff | Min-Yen Kan |
+| 9:10–9:40 | Ethics: Philosophical Bases | Yajing Yang, Esther Gan, Yisong Miao |
+| 9:40–10:05 | Environmental and Societal Impacts | Margot Mieskes, Aurélie Névéol |
+| 10:05–10:30 | Team Discussion | *All Participants* |
+| 10:30–11:00 | ☕️ 🍵 *Break* 🍵 ☕️ | |
+| 11:00–11:40 | Team Presentation | *All Participants* |
+| 11:40–11:50 | Ethical Consideration Sections in ACL Venues | Yisong Miao |
+| 11:50–12:20 | Language Representation and Multilingual Bias | Vamshi Krishna Bonagiri, Xi Ai, Seunghun J. Lee |
+| 12:20–12:30 | Closing | Min-Yen Kan |
 
-We conducted the tutorial in an active classroom style, where participants were self-organized into small groups (in our instance, 2 groups of about 10 participants each), electing leads for subsequent group presentation and worked through the exercises to record their reactions to the materials and identify the issues and conducive outcomes.
+We conducted the tutorial in an active classroom style, where participants were self-organized into small groups, electing leads for subsequent group presentation and worked through the exercises to record their reactions to the materials and identify the issues and conducive outcomes.
 
 ### <a id="ts">Tutorial Slides</a>
 
-Google Slides permalink for ACL 2025 tutorial: [https://tinyurl.com/presentation-deck-ACL-2025](https://tinyurl.com/presentation-deck-ACL-2025)
+[Slides permalink](https://soc-n.us/261109-ethics-tutorial-slides) for AACL-IJCNLP 2026 tutorial
 
-#### Individual Slides PDFs
-
-<div style="display: flex; flex-wrap: wrap; gap: 2em; justify-content: flex-start; align-items: flex-start;">
-
-<div style="flex: 1 1 300px; min-width: 280px; max-width: 340px;">
-<strong>Philosophical bases</strong><br>
-<em>Presented by Fanny Ducel & Karën Fort</em><br>
-<iframe src="https://drive.google.com/file/d/1x7loTQ_BaZVUWKTP4bzOpzTbZYYFoShs/preview" width="100%" height="400" allow="autoplay"></iframe>
-</div>
-
-<div style="flex: 1 1 300px; min-width: 280px; max-width: 340px;">
-<strong>Ethical fundamental questions</strong><br>
-<em>Presented by Guido Ivetta & Luciana Benotti</em><br>
-<iframe src="https://drive.google.com/file/d/1PGFVu0gaiTuWB2cWNMxgrQJZz7FHh7gR/preview" width="100%" height="400" allow="autoplay"></iframe>
-</div>
-
-<div style="flex: 1 1 300px; min-width: 280px; max-width: 340px;">
-<strong>Language use that creates Bias</strong><br>
-<em>Presented by Adriana Pagano & Min-Yen Kan</em><br>
-<iframe src="https://drive.google.com/file/d/1gVG2Mz3ENIYhpu3o58_LlSbyxdvdjO5T/preview" width="100%" height="400" allow="autoplay"></iframe>
-</div>
-
-</div>
+[Canva Slides permalink](https://soc-n.us/261109-ethics-tutorial-activity) for **Team Discussions** portion of the tutorial (Please sign-in to edit)
 
 ### <a id="tr">Tutorial Recording</a>
 
 <div style="flex: 1 1 300px; min-width: 300px; max-width: 480px;">
 <strong>Opening remark</strong><br>
-<em>Presented by Margot Mieskes & Adriana Pagano</em>
-<iframe width="100%" height="215" src="https://www.youtube.com/embed/4xh5UagruRk" title="Opening remark" frameborder="0" allowfullscreen></iframe>
+<em>Presented by Min-Yen Kan</em>
+  <div style="width: 100%; height: 215px; background-color: #f0f0f0; border: 1px dashed #ccc; display: flex; align-items: center; justify-content: center; margin-top: 8px; border-radius: 4px;">
+    <span style="color: #666; font-weight: bold; font-family: sans-serif;">Video Coming Soon</span>
+  </div>
 </div>
 
 <div style="flex: 1 1 300px; min-width: 300px; max-width: 480px;">
 <strong>Philosophical bases</strong><br>
-<em>Presented by Fanny Ducel & Karën Fort</em>
-<iframe width="100%" height="215" src="https://www.youtube.com/embed/2Oy8YbU-pEo" title="Philosophical bases" frameborder="0" allowfullscreen></iframe>
+<em>Presented by Esther Gan & Yajing Yang & Yisong Miao</em>
+  <div style="width: 100%; height: 215px; background-color: #f0f0f0; border: 1px dashed #ccc; display: flex; align-items: center; justify-content: center; margin-top: 8px; border-radius: 4px;">
+    <span style="color: #666; font-weight: bold; font-family: sans-serif;">Video Coming Soon</span>
+  </div>
 </div>
 
 <div style="flex: 1 1 300px; min-width: 300px; max-width: 480px;">
-<strong>Fundamental questions on ethics</strong><br>
-<em>Presented by Guido Ivetta & Luciana Benotti</em>
-<iframe width="100%" height="215" src="https://www.youtube.com/embed/b8A_NIDIpnQ" title="Fundamental questions on ethics" frameborder="0" allowfullscreen></iframe>
+<strong>Environmental and Societal Impacts</strong><br>
+<em>Presented by Margot Mieskes & Aurélie Névéol</em>
+  <div style="width: 100%; height: 215px; background-color: #f0f0f0; border: 1px dashed #ccc; display: flex; align-items: center; justify-content: center; margin-top: 8px; border-radius: 4px;">
+    <span style="color: #666; font-weight: bold; font-family: sans-serif;">Video Coming Soon</span>
+  </div>
 </div>
 
 <div style="flex: 1 1 300px; min-width: 300px; max-width: 480px;">
-<strong>Language representation creates bias</strong><br>
-<em>Presented by Adriana Pagano & Min-Yen Kan</em>
-<iframe width="100%" height="215" src="https://www.youtube.com/embed/prnVbzXE-rs" title="Language representation creates bias" frameborder="0" allowfullscreen></iframe>
+<strong>Language Representation and Multilingual Bias</strong><br>
+<em>Presented by Vamshi Krishna Bonagiri & Xi Ai & Seunghun J. Lee</em>
+  <div style="width: 100%; height: 215px; background-color: #f0f0f0; border: 1px dashed #ccc; display: flex; align-items: center; justify-content: center; margin-top: 8px; border-radius: 4px;">
+    <span style="color: #666; font-weight: bold; font-family: sans-serif;">Video Coming Soon</span>
+  </div>
 </div>
 
 <div style="flex: 1 1 300px; min-width: 300px; max-width: 480px;">
-<strong>Team discussions</strong><br>
-<iframe width="100%" height="215" src="https://www.youtube.com/embed/xtKCt9f_Zak" title="Team discussions" frameborder="0" allowfullscreen></iframe>
+<strong>Ethical Consideration Sections in ACL Venues</strong><br>
+<em>Presented by Yisong Miao</em>
+  <div style="width: 100%; height: 215px; background-color: #f0f0f0; border: 1px dashed #ccc; display: flex; align-items: center; justify-content: center; margin-top: 8px; border-radius: 4px;">
+    <span style="color: #666; font-weight: bold; font-family: sans-serif;">Video Coming Soon</span>
+  </div>
 </div>
 
 <div style="flex: 1 1 300px; min-width: 300px; max-width: 480px;">
 <strong>Closing remark</strong><br>
-<iframe width="100%" height="215" src="https://www.youtube.com/embed/wo8WhgDkdvw" title="Closing remark" frameborder="0" allowfullscreen></iframe>
+  <div style="width: 100%; height: 215px; background-color: #f0f0f0; border: 1px dashed #ccc; display: flex; align-items: center; justify-content: center; margin-top: 8px; border-radius: 4px;">
+    <span style="color: #666; font-weight: bold; font-family: sans-serif;">Video Coming Soon</span>
+  </div>
 </div>
 
 ### <a id="a">Activity</a>
@@ -218,16 +217,12 @@ After both phases were finished, each group presented elements of their findings
 
 #### Materials
 
-The activity was run using a scribe document where the organizers communicated information (the abstracts below and the instructions) and solicited the audience's feedback on the overall session.  
+For the group activities, we used an editable online presentation deck such that each group could create 1-3 slides (1 slide max in the first phease) in their respective subgroups.  
 
-* <a href="https://github.com/acl-org/ethics-tutorial/blob/main/activity/%5BTemplate%5D%20Understanding%20Ethics%20in%20NLP%20Authoring%20and%20Reviewing%20%E2%80%94%20Scribe%20Document.pdf">Template Scribe Document (.pdf)</a> - scrubbed
-* <a href="https://github.com/acl-org/ethics-tutorial/blob/main/activity/%5BTemplate%5D%20Understanding%20Ethics%20in%20NLP%20Authoring%20and%20Reviewing%20%E2%80%94%20Scribe%20Document.docx">Template Scribe Document (.docx)</a> - scrubbed
-* <a href="https://docs.google.com/document/d/1iNpIeXkelcpGl982fCj69RD6oQ61oQ0ijaf7VlcQUjc/edit#heading=h.5wqi5yqsvt45">Template Scribe Document (live Google Doc)</a> - view-only; scrubbed
+<div style="width: 100%; height: 215px; background-color: #f0f0f0; border: 1px dashed #ccc; display: flex; align-items: center; justify-content: center; margin-top: 8px; border-radius: 4px;">
+    <span style="color: #666; font-weight: bold; font-family: sans-serif;">Coming Soon</span>
+  </div>
 
-However, for the group activities, we used an editable online presentation deck such that each group could create 1-3 slides (1 slide max in the first phease) in their respective subgroups.  
-
-* <a href="https://github.com/acl-org/ethics-tutorial/blob/main/activity/%5BTemplate%5D%20Understanding%20Ethics%20in%20NLP%20Authoring%20and%20Reviewing%20%E2%80%94%20Activity%20Deck.pdf">Template Group Slide Presentation (.pdf)</a> -scrubbed 
-* <a href="https://docs.google.com/presentation/d/1BOF8yXdk7JsBxhkCT0jHjdKTEDaqEKmtkLBwpAZK_-0/edit?usp=sharing">Template Group Slide Presentation (live Google Slide link)</a> - view only; scrubbed 
 
 We provide 9 abstracts below with a gloss of their topical concern. The first 6 were written for EACL 2023, but only the first three were ran, due to the smaller number of participants.
 
