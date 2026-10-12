@@ -84,7 +84,7 @@ Authors:
 
 * [Yajing Yang](https://yajingyang.github.io/) (National University of Singapore)
 
-Please fill up our pre-tutorial survey [here](https://forms.cloud.microsoft/r/tEcYnqpmB6). No sign-in required. Thank you!
+Please fill up our pre-tutorial survey [here](https://soc-n.us/261109-ethics-survey). No sign-in required. Thank you!
 
 ### How to run your own tutorial or lesson?
 
