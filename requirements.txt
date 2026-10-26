@@ -28,4 +28,4 @@ setuptools==78.1.1
 six==1.16.0
 urllib3==2.8.0
 watchdog==5.0.2
-wheel==0.44.0
+wheel==0.46.2
