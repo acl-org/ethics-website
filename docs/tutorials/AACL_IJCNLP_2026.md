@@ -130,7 +130,7 @@ url={https://openreview.net/forum?id=hL6YVWG3wG}
 
 ### <a id="i">Introduction</a>
 
-In 2026, the ACL Ethics Committee (AEC) decided to propose to run a tutorial on ethics and its impact on ethics in both authoring and reviewing aspects for the community of CL/NLP scholars and practitioners. As part of this process, the AEC Committee put together the <a href="/tutorials/Ethics_Tutorial_Proposal_AACL_IJCNLP_2026.pdf" target="_blank" rel="noopener noreferrer">proposal file</a> and submitted it to the joint call for tutorial proposals. It will be published in the upcoming [ACL Anthology](/).
+In 2026, the ACL Ethics Committee (AEC) decided to propose to run a tutorial on ethics and its impact on ethics in both authoring and reviewing aspects for the community of CL/NLP scholars and practitioners. As part of this process, the AEC Committee put together the <a href="/tutorials/Ethics_Tutorial_Proposal_AACL_IJCNLP_2026.pdf" target="_blank" rel="noopener noreferrer">proposal file</a> and submitted it to the joint call for tutorial proposals. It will be published in the upcoming [ACL Anthology](https://aclanthology.org/2026.aacl-tutorials.2/).
 
 The tutorial was accepted to run at [AACL-IJCNLP 2026](https://2026.aaclnet.org) (Hengqin, China, 6 November to 10 November) on Monday, 9 November from 09:00 to 12:30hs in Room L at the Tianmu Melody Convention Centre. The tutorial will be hybrid and we will have online moderators for the virtual participants. 
 
@@ -152,7 +152,7 @@ We conducted the tutorial in an active classroom style, where participants were 
 
 ### <a id="ts">Tutorial Slides</a>
 
-[Slides permalink](https://soc-n.us/261109-ethics-tutorial-slides) for AACL-IJCNLP 2026 tutorial
+[Slides permalink](/) for AACL-IJCNLP 2026 tutorial
 
 [Canva Slides permalink](https://soc-n.us/261109-ethics-tutorial-activity) for **Team Discussions** portion of the tutorial (Please sign-in to edit)
 
