@@ -152,7 +152,7 @@ We conducted the tutorial in an active classroom style, where participants were 
 
 ### <a id="ts">Tutorial Slides</a>
 
-[Slides permalink](/) for AACL-IJCNLP 2026 tutorial
+<a href="/tutorials/Presentation Deck.pdf" target="_blank" rel="noopener noreferrer">Slides permalink</a>
 
 [Canva Slides permalink](https://soc-n.us/261109-ethics-tutorial-activity) for **Team Discussions** portion of the tutorial (Please sign-in to edit)
 
