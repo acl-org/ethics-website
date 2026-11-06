@@ -62,7 +62,7 @@ Authors:
 
 * [Xi Ai](https://baridxiai.github.io/) (National University of Singapore)
 
-* [Vamshi Krishna Bonagiri](https://victorknox.github.io/) (Mohamed bin Zayed University of Artificial Intelligence)
+* [Vamshi Krishna Bonagiri](https://vamshibon.github.io/) (Mohamed bin Zayed University of Artificial Intelligence)
 
 * [Monojit Choudhury](https://mbzuai.ac.ae/study/faculty/monojit-choudhury/) (Mohamed bin Zayed University of Artificial Intelligence)
 
