@@ -152,7 +152,9 @@ We conducted the tutorial in an active classroom style, where participants were 
 
 ### <a id="ts">Tutorial Slides</a>
 
-<a href="/tutorials/Presentation Deck.pdf" target="_blank" rel="noopener noreferrer">Slides permalink</a>
+<a href="/tutorials/Presentation Deck.pdf" target="_blank" rel="noopener noreferrer">Slides permalink</a> (English Deck)
+
+<a href="/tutorials/Chinese Presentation Deck.pdf" target="_blank" rel="noopener noreferrer">Slides permalink</a> (Mandarian Chinese Deck)
 
 [Canva Slides permalink](https://soc-n.us/261109-ethics-tutorial-activity) for **Team Discussions** portion of the tutorial (Please sign-in to edit)
 
