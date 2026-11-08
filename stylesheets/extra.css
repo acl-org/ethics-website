@@ -1,0 +1,18 @@
+#visible-visit-counter {
+  margin-left: auto;
+  opacity: 0;
+  font-size: 0.8rem;
+  white-space: nowrap;
+  transition: opacity 150ms ease;
+}
+
+#visible-visit-counter:hover,
+#visible-visit-counter:focus-visible {
+  opacity: 1;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  #visible-visit-counter {
+    transition: none;
+  }
+}
